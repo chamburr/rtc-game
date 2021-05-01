@@ -83,11 +83,11 @@ function draw() {
         grids = 3;
       }
       else if (mouseY > canvasX * 0.61 && mouseY < canvasX * 0.69) {
-        seconds = 7;
+        seconds = 5;
         grids = 4;
       }   
       else if (mouseY > canvasX * 0.71 && mouseY < canvasX * 0.79) {
-        seconds = 10;
+        seconds = 5;
         grids = 5;
       } else {
         return;
