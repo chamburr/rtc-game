@@ -1,6 +1,6 @@
 # Remember The Colours
 
-This game was created for my CEP text-based game project in school.
+This game was created for my Y2 CS project in school.
 
 ## Play
 
